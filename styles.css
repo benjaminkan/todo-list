@@ -21,6 +21,7 @@ html {
 }
 
 body {
+    font-family: Arial;
     background: #01012b;
     background: url(img/cb-bg.jpg);
     background-size: cover;
